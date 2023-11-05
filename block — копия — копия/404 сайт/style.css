@@ -1,0 +1,16 @@
+body{
+    min-height: 100%;
+    background: url("Fon.jpg") ;
+    background-size: cover;
+    color: white;
+    font-family: Arial;
+}
+.head{
+    font-size: 60px;
+    text-align: center;
+}
+.text{
+    font-size: 35px;
+    margin: 0 auto;
+    width: 50%;
+}
